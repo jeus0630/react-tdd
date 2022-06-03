@@ -1,5 +1,7 @@
+import { ContactModal } from "./ContactModal"
+
 export default function App(){
   return (
-    <div>Hello World</div>
+    <ContactModal></ContactModal>
   )
 }
